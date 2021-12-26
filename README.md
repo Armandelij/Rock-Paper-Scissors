@@ -1,5 +1,4 @@
-# Rock-Paper-Scissors
-Program allows you to play rock paper scissors. 
+# Rock-Paper-Scissors 
 
 Create an object-oriented program for a Roshambo game where the user can choose to 
 compete against one of two computer players: Bart or Lisa. 
