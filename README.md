@@ -14,3 +14,6 @@ method. This method should randomly select rock, paper, or scissors.
 • The program should allow the user (Player) to play Roshambo against Bart or Lisa. 
 • In the game of Roshambo, rock beats scissors, paper beats rock, and scissors beats 
 paper. 
+
+
+https://user-images.githubusercontent.com/64448202/147627442-b9388473-5ed8-46db-803b-5ebca1aa59f7.mov
